@@ -1,20 +1,29 @@
 # 💫 About Me:
-Olá, me chamo Paulo Mateus, tenho 27 anos e sou fascinado em criar soluções com o uso da tecnologia! 
+Olá! Sou Paulo Mateus, desenvolvedor Full Stack Sênior, com mais de 4 anos de experiência em desenvolvimento web.
+Tenho 27 anos e sou movido pelo desafio de transformar ideias em produtos digitais de impacto.
 
-- Desenvolvedor, formado pela Trybe no curso de desenvolvimento Full Stack, onde realizei também uma especialização em desenvolvimento Android com Kotlin e uma aceleração C#. Atualmente cursando Bacharelado em Engenharia de Software pela Estácio. 
+Atuo há mais de 4 anos com desenvolvimento web moderno, combinando solidez técnica e visão de produto.
+Recentemente, atuei como Frontend Sênior em um projeto internacional para a CP – Comboios de Portugal, principal empresa estatal de transporte ferroviário do país, atendendo mais de 1 milhão de usuários ativos.
+Nesse projeto, fui responsável por:
 
-Principais tecnologias que estou usando atualmente:
-- FrontEnd -> TypeScript, React.js e Next.js.
-- BackEnd -> Node.js, Nest.js e PostgreSQL
-- Mobile -> Kotlin + Java e Jetpack Compose.
+Construir aplicações PWA com funcionamento offline, cache dinâmico e performance Lighthouse 90+;
 
-Tecnologias secundárias que estou estudando e me aperfeiçoando:
-- Java, C#, .NET e PHP
+Desenvolver componentes escaláveis em React + TypeScript com arquitetura limpa e foco em acessibilidade (WCAG);
 
-Além das habilidades técnicas, tenho conhecimento em design gráfico e UX/UI, o que enriquece minha visão de usabilidade, permitindo-me entregar interfaces intuitivas e funcionais. Sou proativo e gosto de participar de todas as etapas do desenvolvimento, buscando soluções criativas e eficientes. Valorizo o trabalho em equipe e a troca de conhecimentos, pois acredito que a colaboração é essencial para o sucesso de qualquer projeto.
+Integrar APIs REST robustas, testes com Jest e pipelines de CI/CD;
 
-Adoraria poder contar um pouco mais da minha história para você! 
+Colaborar com times internacionais em fuso horário europeu, aplicando metodologias ágeis e comunicação assíncrona eficiente.
 
+No meu dia a dia, trabalho com:
+Front-end: TypeScript, React.js, Next.js
+Back-end: Node.js, Nest.js, PostgreSQL
+Mobile: Kotlin + Java (Jetpack Compose)
+Extras: experiência com AWS, Docker, CI/CD, UX/UI e princípios de DevSecOps.
+
+Tenho background em design gráfico e UX, o que amplia minha visão de usabilidade e experiência do usuário.
+Valorizo código limpo, colaboração e aprendizado contínuo — acredito que tecnologia é mais do que escrever código: é criar experiências que resolvem problemas reais.
+
+Se quiser trocar uma ideia sobre tecnologia, design ou novos desafios, será um prazer conversar! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomatsdev/) 
