@@ -15,11 +15,11 @@ Integrar APIs REST robustas, testes com Jest e pipelines de CI/CD;
 Colaborar com times internacionais em fuso horário europeu, aplicando metodologias ágeis e comunicação assíncrona eficiente.
 
 No meu dia a dia, trabalho com:
-Front-end: TypeScript, React.js, Next.js
-Back-end: Node.js, Nest.js, PostgreSQL
-Mobile: Kotlin + Java (Jetpack Compose)
-Extras: experiência com AWS, Docker, CI/CD, UX/UI e princípios de DevSecOps.
-
+- Front-end: TypeScript, React.js, Next.js
+- Back-end: Node.js, Nest.js, PostgreSQL
+- Mobile: Kotlin + Java (Jetpack Compose)
+- Extras: experiência com AWS, Docker, CI/CD, UX/UI e princípios de DevSecOps.
+  
 Tenho background em design gráfico e UX, o que amplia minha visão de usabilidade e experiência do usuário.
 Valorizo código limpo, colaboração e aprendizado contínuo — acredito que tecnologia é mais do que escrever código: é criar experiências que resolvem problemas reais.
 
